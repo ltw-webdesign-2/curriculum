@@ -3,10 +3,41 @@ topic: "Transitions"
 desc: "Learn how to add simple transition to designs to add an extra fanciness—and usability."
 clr: "2"
 
+video_tutorials:
+  - title: "CSS animations & effects"
+    url: css-animations-effects
+    highlight: true
+    videos: true
+  - title: "CSS animations & effects cheat sheet"
+    url: css-animations-effects-cheat-sheet
+    highlight: true
+  - title: "Naming & paths cheat sheet "
+    url: naming-paths-cheat-sheet
+  - title: "Images cheat sheet"
+    url: images-cheat-sheet
+
+slides:
+  - title: "Transforms & transitions"
+    url: transforms-transitions
+
 tasks:
-  - type: blank
-  - type: blank
-  - type: blank
+  - title: "Fancy hover boxes"
+    url: fancy-hover-boxes
+    submit: code
+    type: lesson
+  - title: "Project plan check-in"
+    url: "https://github.com/acgd-webdesign-2/project-plan0check-in"
+    button: activity
+    type: basic
+    no-solution: true
+    submit: show
+    disabled: true
+  - title: "Plan your project"
+    url: "https://github.com/acgd-webdesign-2/plan-your-project/"
+    type: paper
+    no-solution: true
+    graded-as: independent-website-project-plan
+    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

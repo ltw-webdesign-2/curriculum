@@ -11,7 +11,7 @@ tasks:
     url: "https://www.algonquincollege.com/studentfeedback/"
     type: basic
     submit: "Submit feedback form."
-    graded-as: falses
+    graded-as: false
   - type: blank
   - type: blank
 ---

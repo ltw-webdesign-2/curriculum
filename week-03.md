@@ -22,14 +22,10 @@ slides:
   - title: "Media queries"
     url: media-queries
 
-group_activities:
-  - title: "A web of screen sizes"
-    url: a-web-of-screen-sizes
-    type: pencil
-    no-solution: true
-
 tasks:
-  - type: blank
+  - title: "Em Enforcer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
+    type: activity
   - title: "Grids & media queries"
     url: grids-and-media-queries
     type: lesson

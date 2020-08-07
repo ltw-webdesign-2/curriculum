@@ -21,6 +21,8 @@ video_tutorials:
 slides:
   - title: "Media queries"
     url: media-queries
+    # @TODO: COPY
+    disabled: true
 
 tasks:
   - title: "Em Enforcer"

@@ -12,7 +12,6 @@ video_tutorials:
     url: accessibility-cheat-sheet
   - title: "Screen reader cheat sheet"
     url: screen-reader-cheat-sheet
-    disabled: true
   - title: "SVG cheat sheet"
     url: svg-cheat-sheet
   - title: "Performance checklist"
@@ -26,19 +25,15 @@ slides:
 tasks:
   - type: blank
   - title: "Define your project"
-    # Come up with the theme & idea for the website
-    url: "https://github.com/acgd-webdesign-2/define-your-project/"
+    url: "https://github.com/acgd-webdesign-2/define-your-project"
     type: paper
     no-solution: true
     graded-as: false
-    disabled: true
   - title: "Plan your project"
-    # Sketching, wireframes, content documents, content wrangling, moodboards, etc.
-    url: "https://github.com/acgd-webdesign-2/plan-your-project/"
+    url: "https://github.com/acgd-webdesign-2/plan-your-project"
     type: paper
     no-solution: true
     graded-as: independent-website-project-plan
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

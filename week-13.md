@@ -12,7 +12,6 @@ video_tutorials:
     url: accessibility-cheat-sheet
   - title: "Screen reader cheat sheet"
     url: screen-reader-cheat-sheet
-    disabled: true
   - title: "SVG cheat sheet"
     url: svg-cheat-sheet
   - title: "Performance checklist"
@@ -26,12 +25,10 @@ tasks:
     type: basic
     no-solution: true
     submit: show
-    disabled: true
   - title: "Code your project"
-    url: "https://github.com/acgd-webdesign-2/code-your-project/"
+    url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

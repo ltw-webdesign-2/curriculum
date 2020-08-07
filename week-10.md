@@ -4,6 +4,10 @@ desc: "Learn how to add simple transition to designs to add an extra fancinessâ€
 clr: "2"
 
 video_tutorials:
+  - title: "Position & z-index"
+    url: position-zindex
+    videos: true
+    highlight: true
   - title: "CSS animations & effects"
     url: css-animations-effects
     highlight: true
@@ -26,18 +30,16 @@ tasks:
     submit: code
     type: lesson
   - title: "Project plan check-in"
-    url: "https://github.com/acgd-webdesign-2/project-plan0check-in"
+    url: "https://github.com/acgd-webdesign-2/project-plan-check-in"
     button: activity
     type: basic
     no-solution: true
     submit: show
-    disabled: true
   - title: "Plan your project"
-    url: "https://github.com/acgd-webdesign-2/plan-your-project/"
+    url: "https://github.com/acgd-webdesign-2/plan-your-project"
     type: paper
     no-solution: true
     graded-as: independent-website-project-plan
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

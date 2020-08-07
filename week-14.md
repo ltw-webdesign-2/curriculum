@@ -51,8 +51,7 @@ tasks:
     type: basic
     graded-as: false
   - title: "Code your project"
-    url: "https://github.com/acgd-webdesign-2/code-your-project/"
+    url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
-    disabled: true
 ---

@@ -7,14 +7,15 @@ video_tutorials:
   - title: "Content accessibility"
     url: content-accessibility
     videos: true
-    disabled: true
+  - title: "Accessibility for design"
+    url: accessibility-for-design
+    videos: true
   - title: "Accessibility cheat sheet"
     url: accessibility-cheat-sheet
     highlight: true
   - title: "Screen reader cheat sheet"
     url: screen-reader-cheat-sheet
     highlight: true
-    disabled: true
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
   - title: "HTML semantics checklist"
@@ -25,6 +26,8 @@ group_activities:
     url: using-voiceover
     type: star
     no-solution: true
+    # @TODO: COPY
+    disabled: true
 
 tasks:
   - title: "Accessibility Adapter"
@@ -36,6 +39,8 @@ tasks:
     disabled: true
   - title: "Kraken good accessibility"
     url: "https://github.com/acgd-webdesign-2/kraken-good-accessibility"
+    # @TODO: COPY
+    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

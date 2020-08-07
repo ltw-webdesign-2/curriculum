@@ -14,17 +14,23 @@ video_tutorials:
 slides:
   - title: "Performance"
     url: performance
+    # @TODO: COPY
+    disabled: true
 
 tasks:
   - title: "Improving performance"
-    # A lesson on the steps to improve performance: same thigns as done in Fastness Fixer
+    # A lesson on the steps to improve performance: same things as done in Fastness Fixer
     url: improving-performance
     type: lesson
+    disabled: true
   - title: "Exporting for performance"
     # Given a series of AI & PSD documents, export them & compress them properly
     # Make sure to be sticky on compression size & dimensions
+    disabled: true
   - title: "Fastness fixer"
     url: "https://github.com/acgd-webdesign-2/fastness-fixer"
+    # @TODO: COPY
+    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

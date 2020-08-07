@@ -21,18 +21,16 @@ tasks:
     url: animated-clock
     submit: code
   - title: "Project plan critique"
-    url: "https://github.com/acgd-webdesign-2/project-plan-critique/"
+    url: "https://github.com/acgd-webdesign-2/project-plan-critique"
     button: activity
     type: basic
     no-solution: true
     submit: show
     graded-as: false
-    disabled: true
   - title: "Code your project"
-    url: "https://github.com/acgd-webdesign-2/code-your-project/"
+    url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

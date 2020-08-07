@@ -37,9 +37,11 @@ tasks:
   - title: "Type on a grid"
     # Lay out a basic type-only website with CSS Grid — and verbalize
     url: "https://github.com/acgd-webdesign-2/type-on-a-grid"
+    disabled: true
   - title: "Components on a grid"
     # Adding card component & nav components into CSS Grid — and verbalize
     url: "https://github.com/acgd-webdesign-2/components-on-a-grid"
+    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

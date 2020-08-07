@@ -6,6 +6,7 @@ clr: "1, 2, 3"
 video_tutorials:
   - title: "Accessibility of animations & effects"
     url: accessibility-of-animations-effects
+    videos: true
     disabled: true
   - title: "CSS animations & effects"
     url: css-animations-effects
@@ -25,10 +26,9 @@ tasks:
     type: lesson
     disabled: true
   - title: "Code your project"
-    url: "https://github.com/acgd-webdesign-2/code-your-project/"
+    url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

@@ -15,8 +15,6 @@ video_tutorials:
 slides:
   - title: "Preparing images"
     url: preparing-images
-    # @TODO: COPY
-    disabled: true
 
 group_activities:
   - title: "Image formats"
@@ -24,28 +22,20 @@ group_activities:
     type: pencil
     pair: true
     no-solution: true
-    # @TODO: COPY
-    disabled: true
 
 tasks:
   - title: "Exporting from Photoshop"
     url: exporting-from-photoshop
     type: lesson
     submit: code
-    # @TODO: COPY
-    disabled: true
   - title: "Exporting from Illustrator"
     url: exporting-from-illustrator
     type: lesson
     submit: code
-    # @TODO: COPY
-    disabled: true
   - title: "Production prepping & compression"
     url: "https://github.com/acgd-webdesign-2/production-prepping-compression"
     button: do-work
     type: download-markbot
-    # @TODO: COPY
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

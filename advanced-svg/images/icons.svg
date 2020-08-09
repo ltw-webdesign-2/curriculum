@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="the-circle" viewBox="0 0 48 48">
+    <circle cx="24" cy="24" r="22" fill="tomato" />
+  </symbol>
+  <symbol id="the-triangle" viewBox="0 0 48 48">
+    <polygon points="24,2 46,46 2,46" fill="yellowgreen" />
+  </symbol>
+</svg>

@@ -26,21 +26,15 @@ group_activities:
     url: using-voiceover
     type: star
     no-solution: true
-    # @TODO: COPY
-    disabled: true
 
 tasks:
   - title: "Accessibility Adapter"
     url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-adapter/"
     type: activity
   - title: "Hear me, oh content!"
-    # HTML semantics-only + VoiceOver problems + accessibility of content
-    url: "https://github.com/acgd-webdesign-2/hear-me-oh-content/"
-    disabled: true
+    url: "https://github.com/acgd-webdesign-2/hear-me-oh-content"
   - title: "Kraken good accessibility"
     url: "https://github.com/acgd-webdesign-2/kraken-good-accessibility"
-    # @TODO: COPY
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

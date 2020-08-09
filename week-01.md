@@ -21,29 +21,18 @@ video_tutorials:
 slides:
   - title: "Web Dev 2 intro"
     url: intro
-    # @TODO: COPY
-    disabled: true
 
 group_activities:
   - title: "Semantics schemantics"
     type: pencil
     pair: true
     url: semantics-schemantics
-    # @TODO: COPY
-    disabled: true
 
 todos:
   - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learn-the-web.algonquindesign.ca/profile/)"
 
 tasks:
-  - title: "Update your computer!"
-    type: basic
-    submit: show
-    button: activity
-    url: update-your-computer
-    progressinator_id: update-your-computer-web-design-2
-    # @TODO: COPY
-    disabled: true
+  - type: blank
   - title: "HTML writer"
     url: "https://github.com/acgd-webdesign-2/html-writer"
     # @TODO: COPY

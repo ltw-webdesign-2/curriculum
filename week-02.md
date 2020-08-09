@@ -29,6 +29,7 @@ group_activities:
 tasks:
   - title: "Speak your code"
     # Similar to the Web Design 1: learn how to verbalize with practice examples
+    # Copy the Web Design 1 lesson, but add a section on CSS
     url: speak-your-code
     type: lesson
     submit: "Nothing. Just practice."

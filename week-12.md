@@ -22,8 +22,8 @@ tasks:
   - type: blank
   - title: "Prefers accessibility"
     # prefers-reduced-motion, disabling effects, pointers, hover magnification problems, etc.
-    url: prefers-accessibility
-    type: lesson
+    # create a website where they need to add the MQs & style certain things
+    url: "https://github.com/acgd-webdesign-2/prefers-accessibility"
     disabled: true
   - title: "Code your project"
     url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"

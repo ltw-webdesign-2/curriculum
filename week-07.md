@@ -22,8 +22,6 @@ tasks:
   - type: blank
   - title: "Fastness fixer"
     url: "https://github.com/acgd-webdesign-2/fastness-fixer"
-    # @TODO: COPY
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

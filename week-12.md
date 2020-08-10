@@ -7,7 +7,6 @@ video_tutorials:
   - title: "Accessibility of animations & effects"
     url: accessibility-of-animations-effects
     videos: true
-    disabled: true
   - title: "CSS animations & effects"
     url: css-animations-effects
   - title: "CSS animations & effects cheat sheet"
@@ -16,15 +15,11 @@ video_tutorials:
 slides:
   - title: "Effects + a11y"
     url: effects-accessibility
-    disabled: true
 
 tasks:
   - type: blank
   - title: "Prefers accessibility"
-    # prefers-reduced-motion, disabling effects, pointers, hover magnification problems, etc.
-    # create a website where they need to add the MQs & style certain things
     url: "https://github.com/acgd-webdesign-2/prefers-accessibility"
-    disabled: true
   - title: "Code your project"
     url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code

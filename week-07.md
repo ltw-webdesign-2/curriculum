@@ -19,11 +19,7 @@ tasks:
   - title: "Performance Prognosticator"
     url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
     type: activity
-  - title: "Exporting for performance"
-    # Given a series of AI & PSD documents, export them & compress them properly
-    # Make sure to be sticky on compression size & dimensions
-    disabled: true
-    button: activity
+  - type: blank
   - title: "Fastness fixer"
     url: "https://github.com/acgd-webdesign-2/fastness-fixer"
     # @TODO: COPY

@@ -28,11 +28,7 @@ tasks:
   - title: "Em Enforcer"
     url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
     type: activity
-  - title: "Grids & media queries"
-    url: grids-and-media-queries
-    type: lesson
-    submit: code
-    disabled: true
+  - type: blank
   - title: "Responsive customer service"
     # A customer service/help page with lots of type & a responsive grid
     # Require a sketch beforehand

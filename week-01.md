@@ -35,7 +35,7 @@ tasks:
   - type: blank
   - title: "HTML writer"
     url: "https://github.com/acgd-webdesign-2/html-writer"
-    # @TODO: COPY
+    # @TODO: COPY, rename to something else “Euro just doing semantics”
     disabled: true
   - title: "Flexible info card"
     # Horizontal card for book information:

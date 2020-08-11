@@ -16,24 +16,18 @@ video_tutorials:
     url: flexbox-cheat-sheet
   - title: "CSS Grid cheat sheet"
     url: css-grid-cheat-sheet
-    disabled: true
 
 slides:
   - title: "Media queries"
     url: media-queries
-    # @TODO: COPY
-    disabled: true
 
 tasks:
   - title: "Em Enforcer"
     url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
     type: activity
   - type: blank
-  - title: "Responsive customer service"
-    # A customer service/help page with lots of type & a responsive grid
-    # Require a sketch beforehand
-    url: "https://github.com/acgd-webdesign-2/responsive-customer-service"
-    disabled: true
+  - title: "Modularity mindfulness"
+    url: "https://github.com/acgd-webdesign-2/modularity-mindfulness"
   - type: attend-labs
   - type: watch-videos
 ---

@@ -33,15 +33,10 @@ todos:
 
 tasks:
   - type: blank
-  - title: "HTML writer"
-    url: "https://github.com/acgd-webdesign-2/html-writer"
-    # @TODO: COPY, rename to something else “Euro just doing semantics”
-    disabled: true
+  - title: "Euro just doing semantics"
+    url: "https://github.com/acgd-webdesign-2/euro-just-doing-semantics"
   - title: "Flexible info card"
-    # Horizontal card for book information:
-    # [ image title description ]
     url: "https://github.com/acgd-webdesign-2/flexible-info-card"
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

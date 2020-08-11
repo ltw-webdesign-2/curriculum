@@ -7,11 +7,9 @@ video_tutorials:
   - title: "CSS grids"
     url: css-grids
     videos: true
-    disabled: true
   - title: "CSS grid cheat sheet"
     url: css-grid-cheat-sheet
     highlight: true
-    disabled: true
   - title: "Boxes & borders cheat sheet"
     url: boxes-borders-cheat-sheet
   - title: "CSS layout cheat sheet"
@@ -24,22 +22,16 @@ group_activities:
     url: sketch-those-grids
     type: pencil
     pair: true
-    disabled: true
 
 tasks:
   - type: blank
   - title: "Speak your code"
-    # Similar to the Web Design 1: learn how to verbalize with practice examples
-    # Copy the Web Design 1 lesson, but add a section on CSS
     url: speak-your-code
     type: lesson
     submit: "Nothing. Just practice."
     graded-as: false
-    disabled: true
   - title: "Components on a grid"
-    # Adding card component & nav components into CSS Grid — and verbalize
     url: "https://github.com/acgd-webdesign-2/components-on-a-grid"
-    disabled: true
   - type: attend-labs
   - type: watch-videos
 ---

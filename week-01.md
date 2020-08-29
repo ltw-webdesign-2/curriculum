@@ -16,7 +16,7 @@ video_tutorials:
   - title: "CSS layout cheat sheet"
     url: css-layout-cheat-sheet
   - title: "Boxes & borders cheat sheet"
-    url: boxes-borders-cheat-shee
+    url: boxes-borders-cheat-sheet
 
 slides:
   - title: "Web Dev 2 intro"

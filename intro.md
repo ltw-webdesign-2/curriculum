@@ -56,20 +56,20 @@ slides:
   - content: |
       ## Marking scheme
 
-      [**Web Design 2 marking scheme ➔**](/courses/web-design-3/#marking-scheme)
+      [**Web Design 2 marking scheme ➔**](/courses/web-design-2/#marking-scheme)
 
   - content: |
       ## Always be coding
 
       Multiple activities & exercises every week
 
-      [**Week 1 tasks ➔**](/courses/web-design-3/week-01/)
+      [**Week 1 tasks ➔**](/courses/web-design-2/week-01/)
 
   - content: |
       ## Important links
 
       - [**Learn the Web ➔**](//learn-the-web.algonquindesign.ca/)
-      - [Weekly tasks ➔](/courses/web-design-3/)
+      - [Weekly tasks ➔](/courses/web-design-2/)
 
   - content: |
       ## Sticky note triage

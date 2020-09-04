@@ -10,7 +10,7 @@ extra_tutorials:
   - title: "Advanced SVG"
     url: advanced-svg
   - title: "Advanced SVG slide deck"
-    url: "/courses/web-design-3/advanced-svg/"
+    url: "/courses/web-design-2/advanced-svg/"
   - title: "SVG cheat sheet"
     url: svg-cheat-sheet
     highlight: true
@@ -23,14 +23,14 @@ goal:
 
     When hovering over the face the eyebrows will tilt from happy to angry positions.
   no_image: true
-  video: "https://assets.learn-the-web.algonquindesign.ca/web-design-3/svg-smiley-face/goal.mp4"
+  video: "https://assets.learn-the-web.algonquindesign.ca/web-design-2/svg-smiley-face/goal.mp4"
   video_poster: "goal.jpg"
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-3/svg-smiley-face"
+  url: "https://github.com/acgd-webdesign-2/svg-smiley-face"
 
 steps:
   - title: "Set up project"

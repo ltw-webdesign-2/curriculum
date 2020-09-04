@@ -8,7 +8,7 @@ markbot_submit: true
 
 extra_tutorials:
   - title: "Preparing images slide deck"
-    url: "/courses/web-design-3/preparing-images/"
+    url: "/courses/web-design-2/preparing-images/"
   - title: "Website file organization"
     url: organization
   - title: "Images for the web"

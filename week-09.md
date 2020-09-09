@@ -33,6 +33,7 @@ tasks:
     url: "https://github.com/acgd-webdesign-2/plan-your-project"
     type: paper
     no-solution: true
+    due_week: 11
     graded-as: independent-website-project-plan
   - type: attend-labs
   - type: watch-videos

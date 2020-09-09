@@ -46,7 +46,7 @@ tasks:
   - title: "Request for grade"
     url: "https://github.com/acgd-webdesign-2/request-for-grade"
     due: "Midnight, last day of class"
-    due_week: 15
+    due_week: 14
     due_time: "23:59"
     type: basic
     graded-as: false
@@ -54,4 +54,6 @@ tasks:
     url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
+    due_week: 14
+    due_time: "23:59"
 ---

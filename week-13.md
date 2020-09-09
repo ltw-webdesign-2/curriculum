@@ -29,6 +29,8 @@ tasks:
     url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
+    due_week: 14
+    due_time: "23:59"
   - type: attend-labs
   - type: watch-videos
 ---

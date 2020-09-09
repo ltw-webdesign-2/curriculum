@@ -40,6 +40,7 @@ tasks:
     type: paper
     no-solution: true
     graded-as: independent-website-project-plan
+    due_week: 11
   - type: attend-labs
   - type: watch-videos
 ---

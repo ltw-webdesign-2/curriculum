@@ -11,7 +11,6 @@ video_tutorials:
   - title: "CSS animations & effects"
     url: css-animations-effects
     highlight: true
-    videos: true
   - title: "CSS animations & effects cheat sheet"
     url: css-animations-effects-cheat-sheet
     highlight: true

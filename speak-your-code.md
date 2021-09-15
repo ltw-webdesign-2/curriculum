@@ -10,7 +10,7 @@ hide_show_for_marks: true
 steps:
   - title: "Code is words"
     before: |
-      First & foremost, the code we write is for human beings. It’s for humans to consume. It’s for humans to updates. And it’s for humans to understand.
+      First & foremost, the code we write is for human beings. It’s for humans to consume. It’s for humans to update. And it’s for humans to understand.
 
       *We need to be able to read the code to better understand what it’s try to accomplish.*
 
@@ -91,7 +91,7 @@ steps:
               [Listen to this piece of code being read out.](https://www.youtube.com/watch?v=rD9IxqnRkgM&list=PLWjCJDeWfDdfEm-CIR9zUtOoD_7Ywgu4I&index=3&t=0s)
       - code_file: "navigation.html"
         code_before: |
-          Here’s another block of code to practic reading.
+          Here’s another block of code to practice reading.
         code_lang: "html"
         code: |
           <nav>

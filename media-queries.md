@@ -115,7 +115,7 @@ slides:
       <ul>
         <li>Pteranodon</li>
         <li>Quetzalcoatlus</li>
-      <ul>
+      </ul>
     css: |
       ul {
         padding: 0;

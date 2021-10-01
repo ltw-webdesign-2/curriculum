@@ -13,7 +13,7 @@ slides:
 
       There are many people who use other tools to navigate websites: a very common tool is the screen reader.
 
-      We need to make sure out websites work well with screen readers—because it’s the law & the right thing to do.
+      We need to make sure our websites work well with screen readers—because it’s the law & the right thing to do.
 
       **With some practice using VoiceOver we can become comfortable testing & improving our websites.**
 

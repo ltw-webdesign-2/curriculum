@@ -17,7 +17,7 @@ slides:
 
       We need to choose the best image format for each specfic image: for the highest clarity & lowest filesize.
 
-      **Getting some practice by looking & images and determining the best format with help your designs.**
+      **Getting some practice by looking at images and determining the best format will help your designs.**
 
   - content: |
       ## Instructions

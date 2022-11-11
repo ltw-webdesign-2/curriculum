@@ -19,9 +19,9 @@ slides:
 tasks:
   - type: blank
   - title: "Prefers accessibility"
-    url: "https://github.com/acgd-webdesign-2/prefers-accessibility"
+    url: "https://github.com/ltw-webdesign-2/prefers-accessibility"
   - title: "Code your project"
-    url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
+    url: "https://github.com/ltw-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
     due_week: 14

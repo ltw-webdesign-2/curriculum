@@ -21,10 +21,10 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdesign-2/using-svg-icons"
+  url: "https://github.com/ltw-webdesign-2/using-svg-icons"
 
 download:
-  url: "https://assets.learn-the-web.algonquindesign.ca/web-design-2/using-svg-icons-download.zip"
+  url: "https://assets.learntheweb.courses/web-design-2/using-svg-icons-download.zip"
   export_notes: "We’ll be walking through setting up this Illustrator document together so there’s no need to do anything with it right away."
 
 steps:

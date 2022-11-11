@@ -51,8 +51,6 @@ slides:
 
       **GitHub Issues** — help outside class
 
-      **Tutors** — [available to hire for one-on-one](https://algonquincollege.libguides.com/slc/peer-tutoring)
-
   - content: |
       ## Marking scheme
 
@@ -68,7 +66,7 @@ slides:
   - content: |
       ## Important links
 
-      - [**Learn the Web ➔**](//learn-the-web.algonquindesign.ca/)
+      - [**Learn the Web ➔**](https://learntheweb.courses/)
       - [Weekly tasks ➔](/courses/web-design-2/)
 
   - content: |

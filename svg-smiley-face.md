@@ -23,14 +23,14 @@ goal:
 
     When hovering over the face the eyebrows will tilt from happy to angry positions.
   no_image: true
-  video: "https://assets.learn-the-web.algonquindesign.ca/web-design-2/svg-smiley-face/goal.mp4"
+  video: "https://assets.learntheweb.courses/web-design-2/svg-smiley-face/goal.mp4"
   video_poster: "goal.jpg"
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdesign-2/svg-smiley-face"
+  url: "https://github.com/ltw-webdesign-2/svg-smiley-face"
 
 steps:
   - title: "Set up project"
@@ -85,8 +85,8 @@ steps:
 
           The `viewBox` defines the artboard in the image, a cropping zone. It’s almost always the same as the width & height.
 
-          - `0 0` — the top left corner’s x & y coordinates.
-          - `256 256` — the width and height of the art board.
+          - `0 0` — the top left corner’s x & y coordinates.
+          - `256 256` — the width and height of the art board.
       - num: "9-10"
         fade: true
 
@@ -107,8 +107,8 @@ steps:
       - num: 3
         text: |
           - `cx` — the center x coordinate, measured from the left of the image
-          - `cy` — the center y coordinate, measured from the the top of the image
-          - `r` — the radius of the circle, measured from the `cx` & `cy`
+          - `cy` — the center y coordinate, measured from the the top of the image
+          - `r` — the radius of the circle, measured from the `cx` & `cy`
 
           Notice the closing slash at the end of the `<circle … />` tag: because this is XML self-closing tags **must** include their own slash.
       - num: 4
@@ -245,12 +245,12 @@ steps:
         text: |
           There are a bunch of attributes here to create the rectangle:
 
-          - `x` — the top left x coordinate
-          - `y` — the top left y coordinate
-          - `width` — how wide the rectangle is
-          - `height` — how tall the rectangle is
-          - `rx` — the horizontal border-radius size
-          - `ry` — the vertical border-radius size
+          - `x` — the top left x coordinate
+          - `y` — the top left y coordinate
+          - `width` — how wide the rectangle is
+          - `height` — how tall the rectangle is
+          - `rx` — the horizontal border-radius size
+          - `ry` — the vertical border-radius size
       - num: 9
         fade: true
     after: |

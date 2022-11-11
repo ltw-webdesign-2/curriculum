@@ -29,14 +29,14 @@ group_activities:
     url: semantics-schemantics
 
 todos:
-  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learn-the-web.algonquindesign.ca/profile/)"
+  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learntheweb.courses/profile/)"
 
 tasks:
   - type: blank
   - title: "Euro just doing semantics"
-    url: "https://github.com/acgd-webdesign-2/euro-just-doing-semantics"
+    url: "https://github.com/ltw-webdesign-2/euro-just-doing-semantics"
   - title: "Flexible info card"
-    url: "https://github.com/acgd-webdesign-2/flexible-info-card"
+    url: "https://github.com/ltw-webdesign-2/flexible-info-card"
   - type: attend-labs
   - type: watch-videos
 ---

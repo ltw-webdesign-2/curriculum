@@ -25,12 +25,12 @@ slides:
 tasks:
   - type: blank
   - title: "Define your project"
-    url: "https://github.com/acgd-webdesign-2/define-your-project"
+    url: "https://github.com/ltw-webdesign-2/define-your-project"
     type: paper
     no-solution: true
     graded-as: false
   - title: "Plan your project"
-    url: "https://github.com/acgd-webdesign-2/plan-your-project"
+    url: "https://github.com/ltw-webdesign-2/plan-your-project"
     type: paper
     no-solution: true
     due_week: 11

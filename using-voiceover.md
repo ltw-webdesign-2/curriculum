@@ -37,13 +37,13 @@ slides:
       ## VoiceOver keys
 
       - `⌘ F5` — Turn VoiceOver on/off
-      - `⌃` — Pause VoiceOver
+      - `⌃` — Pause VoiceOver
       - `⌃⌥ ➔` — Move to next item
       - `⌃⌥ ←` — Move to previous item
       - `⌃⌥ U` — Open the rotor (Use arrow keys to navigate)
       - `⌃⌥⌘ H` — Next heading (+ `Shift` for previous)
       - `⌃⌥⌘ L` — Next link
-      - `⌃⌥⌘ G` — Next graphic
+      - `⌃⌥⌘ G` — Next graphic
       - `⌃⌥⌘ X` — Next list
     col2: |
       ## VoiceOver task

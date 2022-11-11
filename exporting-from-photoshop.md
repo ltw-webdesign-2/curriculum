@@ -20,7 +20,7 @@ steps:
     before: |
       To get started on this project we need to download a few raster graphics that we can manipulate & export.
 
-      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-design-2/exporting-from-photoshop-download.zip)
+      ### [Download these files.](https://assets.learntheweb.courses/web-design-2/exporting-from-photoshop-download.zip)
 
       Now create the following folder structure on your computer:
     folders:
@@ -50,10 +50,10 @@ steps:
     after: |
       The folders are used for the following purposes:
 
-      - `assets` — for files that are sourced or downloaded from another location that aren’t ready to be exported. *These files usually need to be credited to the author because you didn’t create them.*
+      - `assets` — for files that are sourced or downloaded from another location that aren’t ready to be exported. *These files usually need to be credited to the author because you didn’t create them.*
       - `prod` — (short for `production`) to keep perfect assets ready for exporting, in case they need to be changed
-      - `www` — this is your GitHub repository, where all your HTML & CSS files are (we’re not using GitHub right now)
-      - `www/images` — this is where the exported, smushed files go
+      - `www` — this is your GitHub repository, where all your HTML & CSS files are (we’re not using GitHub right now)
+      - `www/images` — this is where the exported, smushed files go
 
       **Photoshop documents SHOULD NEVER be committed into your GitHub repository.**
     notes:

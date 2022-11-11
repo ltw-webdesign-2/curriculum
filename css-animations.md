@@ -101,9 +101,9 @@ slides:
         text: |
           There are a few pieces of information:
 
-          1. `spin` — the name of the keyframes block
+          1. `spin` — the name of the keyframes block
           2. `1s` — the time the keyframes take to play
-          3. `infinite` — repeat the keyframes infinite number of times
+          3. `infinite` — repeat the keyframes infinite number of times
           4. `alternate` — play the keyframes forwards then backwards
     css_hidden: |
       div {

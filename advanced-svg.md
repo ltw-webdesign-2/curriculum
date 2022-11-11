@@ -20,7 +20,7 @@ slides:
 
       SVGs look very similar to HTML—but they are XML
 
-      - `<svg>` — everything goes inside
+      - `<svg>` — everything goes inside
       - `<circle>`
       - `<rect>`
       - `<ellipse>`
@@ -46,9 +46,9 @@ slides:
         text: |
           The `<circle>` element will draw a circle to the screen. It needs a few different attributes:
 
-          - `cx` — the centre “x” coordinate
-          - `cy` — the centre “y” coordinate
-          - `r` — the radius of the circle
+          - `cx` — the centre “x” coordinate
+          - `cy` — the centre “y” coordinate
+          - `r` — the radius of the circle
 
           **Notice that this must have a closing slash (`/`) at the end inside the element. If we compare this to another self-closing tag: the `<img>` tag, the image doesn’t need the slash because its HTML, but the SVG elements does because its XML.
 

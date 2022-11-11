@@ -26,7 +26,7 @@ slides:
 
       *The checkerboard isn’t part of the images—it’s giving you helpful information.*
 
-      **The answers are hidden in the “i” notes—don’t cheat!**
+      **The answers are hidden in the “i” notes—don’t cheat!**
 
   - type: figure
     checkerboard: true
@@ -34,7 +34,7 @@ slides:
     caption: |
       № 1
     notes: |
-      SVG — simple graphic
+      SVG — simple graphic
 
   - type: figure
     checkerboard: true
@@ -42,7 +42,7 @@ slides:
     caption: |
       № 2
     notes: |
-      JPG — complex photograph
+      JPG — complex photograph
 
   - type: figure
     checkerboard: true
@@ -50,7 +50,7 @@ slides:
     caption: |
       № 3
     notes: |
-      JPG — too complex for anything else
+      JPG — too complex for anything else
 
   - type: figure
     checkerboard: true
@@ -58,7 +58,7 @@ slides:
     caption: |
       № 4
     notes: |
-      PNG — can’t be reproduced easily with SVG
+      PNG — can’t be reproduced easily with SVG
 
   - type: figure
     checkerboard: true
@@ -66,7 +66,7 @@ slides:
     caption: |
       № 5
     notes: |
-      SVG — SVGs can have effects
+      SVG — SVGs can have effects
 
   - type: figure
     checkerboard: true

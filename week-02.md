@@ -31,7 +31,7 @@ tasks:
     submit: "Nothing. Just practice."
     graded-as: false
   - title: "Components on a grid"
-    url: "https://github.com/acgd-webdesign-2/components-on-a-grid"
+    url: "https://github.com/ltw-webdesign-2/components-on-a-grid"
   - type: attend-labs
   - type: watch-videos
 ---

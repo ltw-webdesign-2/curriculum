@@ -29,12 +29,12 @@ group_activities:
 
 tasks:
   - title: "Accessibility Adapter"
-    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-adapter/"
+    url: "https://activities.learntheweb.courses/accessibility-adapter/"
     type: activity
   - title: "Hear me, oh content!"
-    url: "https://github.com/acgd-webdesign-2/hear-me-oh-content"
+    url: "https://github.com/ltw-webdesign-2/hear-me-oh-content"
   - title: "Kraken good accessibility"
-    url: "https://github.com/acgd-webdesign-2/kraken-good-accessibility"
+    url: "https://github.com/ltw-webdesign-2/kraken-good-accessibility"
   - type: attend-labs
   - type: watch-videos
 ---

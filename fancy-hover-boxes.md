@@ -25,14 +25,14 @@ goal:
   before: |
     We’re going to explore how to use transitions to make fancy hover boxes where images go from greyscale to coloured and zoom in when hovered.
   no_image: true
-  video: "https://assets.learn-the-web.algonquindesign.ca/web-design-2/fancy-hover-boxes/goal.mp4"
+  video: "https://assets.learntheweb.courses/web-design-2/fancy-hover-boxes/goal.mp4"
   video_poster: goal.jpg
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdesign-2/fancy-hover-boxes"
+  url: "https://github.com/ltw-webdesign-2/fancy-hover-boxes"
 
 steps:
   - title: "Project files"
@@ -265,7 +265,7 @@ steps:
       - num: 10
         text: |
           We can use the `transform` property to grow the image a little bit. The `scale()` function will allow us to grow or shrink HTML elements: `1` is what an element currently is, so `1.1` is just slightly larger.
-    after_video: "https://assets.learn-the-web.algonquindesign.ca/web-design-2/fancy-hover-boxes/hover-effect.mp4"
+    after_video: "https://assets.learntheweb.courses/web-design-2/fancy-hover-boxes/hover-effect.mp4"
     after: |
       Wonderful! Some fancy-fied butterflies.
 

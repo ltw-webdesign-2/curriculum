@@ -21,14 +21,14 @@ tasks:
     url: animated-clock
     submit: code
   - title: "Project plan critique"
-    url: "https://github.com/acgd-webdesign-2/project-plan-critique"
+    url: "https://github.com/ltw-webdesign-2/project-plan-critique"
     button: activity
     type: basic
     no-solution: true
     submit: show
     graded-as: false
   - title: "Code your project"
-    url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
+    url: "https://github.com/ltw-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
     due_week: 14

@@ -17,11 +17,11 @@ slides:
 
 tasks:
   - title: "Performance Prognosticator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/performance-prognosticator/"
+    url: "https://activities.learntheweb.courses/performance-prognosticator/"
     type: activity
   - type: blank
   - title: "Fastness fixer"
-    url: "https://github.com/acgd-webdesign-2/fastness-fixer"
+    url: "https://github.com/ltw-webdesign-2/fastness-fixer"
   - type: attend-labs
   - type: watch-videos
 ---

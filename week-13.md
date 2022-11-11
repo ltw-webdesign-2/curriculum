@@ -20,13 +20,13 @@ video_tutorials:
 tasks:
   - type: blank
   - title: "Project check-in"
-    url: "https://github.com/acgd-webdesign-2/project-check-in"
+    url: "https://github.com/ltw-webdesign-2/project-check-in"
     button: activity
     type: basic
     no-solution: true
     submit: show
   - title: "Code your project"
-    url: "https://github.com/acgd-webdesign-2/web-design-2-independent-project"
+    url: "https://github.com/ltw-webdesign-2/web-design-2-independent-project"
     graded-as: independent-website-project-code
     no-solution: true
     due_week: 14

@@ -82,8 +82,8 @@ slides:
 
       *Upcoming media features worth knowing:*
 
-      - `prefers-contrast` — Determine if a high-contrast interface is requested
-      - `prefers-reduced-transparency` — Determine if a reduced use of transparency is requested
+      - `prefers-contrast` — Determine if a high-contrast interface is requested
+      - `prefers-reduced-transparency` — Determine if a reduced use of transparency is requested
 
   - content: |
       ## Videos & tutorials

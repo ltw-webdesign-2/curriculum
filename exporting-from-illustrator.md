@@ -20,7 +20,7 @@ steps:
     before: |
       To get started on this project we need to download an Illustrator file that we can manipulate & export.
 
-      ### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-design-2/exporting-from-illustrator-download.zip)
+      ### [Download these files.](https://assets.learntheweb.courses/web-design-2/exporting-from-illustrator-download.zip)
 
       Now create the following folder structure on your computer:
     folders:
@@ -42,8 +42,8 @@ steps:
       The folders are used for the following purposes:
 
       - `prod` — (short for `production`) to keep perfect assets ready for exporting, in case they need to be changed
-      - `www` — this is your GitHub repository, where all your HTML & CSS files are (we’re not using GitHub right now)
-      - `www/images` — this is where the exported, smushed files go
+      - `www` — this is your GitHub repository, where all your HTML & CSS files are (we’re not using GitHub right now)
+      - `www/images` — this is where the exported, smushed files go
 
       **Illustrator documents SHOULD NEVER be committed into your GitHub repository.**
     notes:
@@ -104,9 +104,9 @@ steps:
           - “Styling” — “Presentation Attributes”
           - “Font” — “Convert to Outlines”
           - “Images” — “Link”
-          - “Object IDs” — “Layer Names”
-          - “Decimal” — 1
-          - “Minify” — checked
+          - “Object IDs” — “Layer Names”
+          - “Decimal” — 1
+          - “Minify” — checked
           - Make sure “Responsive” is <strong>not</strong> checked (for better browser support)
       - url: "export-artboards.jpg"
         text: "Finally, export the artboards—which will generate optimized SVG graphics"

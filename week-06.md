@@ -25,7 +25,7 @@ tasks:
     type: lesson
     submit: code
   - title: "SVG icons sets"
-    url: "https://github.com/acgd-webdesign-2/svg-icon-sets"
+    url: "https://github.com/ltw-webdesign-2/svg-icon-sets"
   - type: attend-labs
   - type: watch-videos
 ---

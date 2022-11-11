@@ -24,7 +24,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdesign-2/semantics-schemantics/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdesign-2/semantics-schemantics/archive/master.zip)
       3. Print “content.pdf” and draw on the paper
         <br>Or do the whole thing digitally
 

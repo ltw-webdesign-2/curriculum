@@ -29,13 +29,13 @@ tasks:
     submit: code
     type: lesson
   - title: "Project plan check-in"
-    url: "https://github.com/acgd-webdesign-2/project-plan-check-in"
+    url: "https://github.com/ltw-webdesign-2/project-plan-check-in"
     button: activity
     type: basic
     no-solution: true
     submit: show
   - title: "Plan your project"
-    url: "https://github.com/acgd-webdesign-2/plan-your-project"
+    url: "https://github.com/ltw-webdesign-2/plan-your-project"
     type: paper
     no-solution: true
     graded-as: independent-website-project-plan

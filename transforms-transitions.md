@@ -88,7 +88,7 @@ slides:
 
           There are three pieces of information that should be supplied for transitions:
 
-          1. `all` — what property to transition, `all` means every numerical property that changes; but you could write `color` or `border-width` or something specific instead.
+          1. `all` — what property to transition, `all` means every numerical property that changes; but you could write `color` or `border-width` or something specific instead.
           2. `200ms` — the length of time the transition should take, can be written in milliseconds (`ms`) or in seconds (`s`): `200ms = .2s`
           3. `linear` — the type of easing: `ease-in`, `ease-out`, etc. (Same as AfterEffects.) `linear` means “no easing”.
       - num: 5

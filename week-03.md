@@ -23,12 +23,12 @@ slides:
 
 tasks:
   - title: "Em Enforcer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/em-enforcer/"
+    url: "https://activities.learntheweb.courses/em-enforcer/"
     type: activity
     progressinator_id: em-enforcer-web-design-2
   - type: blank
   - title: "Modularity mindfulness"
-    url: "https://github.com/acgd-webdesign-2/modularity-mindfulness"
+    url: "https://github.com/ltw-webdesign-2/modularity-mindfulness"
   - type: attend-labs
   - type: watch-videos
 ---

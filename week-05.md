@@ -33,7 +33,7 @@ tasks:
     type: lesson
     submit: code
   - title: "Production prepping & compression"
-    url: "https://github.com/acgd-webdesign-2/production-prepping-compression"
+    url: "https://github.com/ltw-webdesign-2/production-prepping-compression"
     button: do-work
     type: download-markbot
   - type: attend-labs

@@ -2,7 +2,7 @@
 layout: lesson
 title: "Speaking code"
 desc: "A quick review on reading code & learning to speak code—helps with cognition and memory."
-playlist: PLWjCJDeWfDdfEm-CIR9zUtOoD_7Ywgu4I
+playlist: verbalizing-code
 
 hide_markbot: true
 hide_show_for_marks: true
@@ -66,7 +66,7 @@ steps:
   - title: "Example reading HTML content"
     before: |
       Have a listen & watch of me reading out a chunk of HTML code. *Then below you can do some practice.*
-    video: "IbH14D40KzA"
+    video: "https://videos.learntheweb.courses/playlists/verbalizing-code/1-example-html.mp4"
 
   - title: "Practice HTML chunks"
     before: |
@@ -128,7 +128,7 @@ steps:
   - title: "Example reading CSS code"
     before: |
       Have a listen & watch of me reading out a chunk of CSS code. *Then below you can do some more practice.*
-    video: "axSqzXtRcCE"
+    video: "https://videos.learntheweb.courses/playlists/verbalizing-code/4-example-css.mp4"
 
   - title: "Practice CSS chunks"
     before: |

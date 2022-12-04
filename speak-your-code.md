@@ -66,7 +66,7 @@ steps:
   - title: "Example reading HTML content"
     before: |
       Have a listen & watch of me reading out a chunk of HTML code. *Then below you can do some practice.*
-    video: "https://videos.learntheweb.courses/playlists/verbalizing-code/1-example-html.mp4"
+    video: "https://video-assets.learntheweb.courses/verbalizing-code/1-example-html.mp4"
 
   - title: "Practice HTML chunks"
     before: |
@@ -128,7 +128,7 @@ steps:
   - title: "Example reading CSS code"
     before: |
       Have a listen & watch of me reading out a chunk of CSS code. *Then below you can do some more practice.*
-    video: "https://videos.learntheweb.courses/playlists/verbalizing-code/4-example-css.mp4"
+    video: "https://video-assets.learntheweb.courses/verbalizing-code/4-example-css.mp4"
 
   - title: "Practice CSS chunks"
     before: |
